@@ -4,7 +4,9 @@ package hello;
  * Created by aniruddha@primaseller.com on 13/12/15.
  */
 public class ErrorBody {
+	
 	private String code;
+	
 	private String message;
 
 	public ErrorBody(String code, String message) {
